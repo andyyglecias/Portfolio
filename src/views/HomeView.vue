@@ -114,11 +114,13 @@
                 </h2>
                 <div class="row animation-translate animation-item-2">
                   <div class="col-12 col-md-4">
-                    <img
-                      class="card-img-top"
-                      src="https://besthqwallpapers.com/Uploads/24-2-2022/190457/thumb2-nba-3d-logo-4k-gray-brickwall-national-basketball-association-creative.jpg"
-                      alt="Project 1"
-                    />
+                    <a href="https://nbalatestnews.com/#/">
+                      <img
+                        class="card-img-top"
+                        src="https://besthqwallpapers.com/Uploads/24-2-2022/190457/thumb2-nba-3d-logo-4k-gray-brickwall-national-basketball-association-creative.jpg"
+                        alt="Project 1"
+                      />
+                    </a>
                     <div class="card-body">
                       <br />
                       <h3 class="card-title">Project 1</h3>
@@ -129,12 +131,14 @@
                     </div>
                   </div>
                   <div class="col-12 col-md-4">
-                    <img
-                      class="card-img-top"
-                      src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
+                    <a href="https://andyyglecias.github.io/graffiti-data/">
+                      <img
+                        class="card-img-top"
+                        src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
 "
-                      alt="Project 2"
-                    />
+                        alt="Project 2"
+                      />
+                    </a>
                     <div class="card-body">
                       <h3 class="card-title">Project 2</h3>
                       <h4 class="card-subtitle">
