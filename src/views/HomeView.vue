@@ -117,13 +117,14 @@
                     <a class="card" href="#modal-project-1" data-toggle="modal">
                       <img
                         class="card-img-top"
-                        src="https://via.placeholder.com/360x240"
+                        src="https://besthqwallpapers.com/Uploads/24-2-2022/190457/thumb2-nba-3d-logo-4k-gray-brickwall-national-basketball-association-creative.jpg"
                         alt="Project 1"
                       />
                       <div class="card-body">
+                        <br />
                         <h3 class="card-title">Project 1</h3>
-                        <h4 class="card-subtitle">Design e-shop</h4>
-                        <p class="card-tags">Frontend — Backend</p>
+                        <h4 class="card-subtitle">NBA Latest News (Vue.js)</h4>
+                        <p class="card-tags">Vue.js</p>
                       </div>
                     </a>
                   </div>
@@ -131,15 +132,16 @@
                     <a class="card" href="#modal-project-2" data-toggle="modal">
                       <img
                         class="card-img-top"
-                        src="https://via.placeholder.com/360x240"
+                        src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
+"
                         alt="Project 2"
                       />
                       <div class="card-body">
                         <h3 class="card-title">Project 2</h3>
                         <h4 class="card-subtitle">
-                          Social Network for Musicians
+                          Chicago graffiti data (VanJS)
                         </h4>
-                        <p class="card-tags">Design — Frontend — Backend</p>
+                        <p class="card-tags">View Code</p>
                       </div>
                     </a>
                   </div>
@@ -147,13 +149,16 @@
                     <a class="card" href="#modal-project-3" data-toggle="modal">
                       <img
                         class="card-img-top"
-                        src="https://via.placeholder.com/360x240"
+                        src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
+"
                         alt="Project 3"
                       />
                       <div class="card-body">
                         <h3 class="card-title">Project 3</h3>
-                        <h4 class="card-subtitle">Jewelry e-shop</h4>
-                        <p class="card-tags">Frontend — Backend</p>
+                        <h4 class="card-subtitle">
+                          Chicago graffiti data (Ruby on Rails)
+                        </h4>
+                        <p class="card-tags">View Code</p>
                       </div>
                     </a>
                   </div>
