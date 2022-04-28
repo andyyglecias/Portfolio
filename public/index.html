@@ -1,17 +1,50 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="cs">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800&display=swap&subset=latin-ext"
+      rel="stylesheet"
+    />
+    <link href="dist/css/main.css" rel="stylesheet" />
+    <title>Andy Yglecias | Portfolio</title>
   </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
+  <div id="app"></div>
+  <body
+    class="with-header position-relative"
+    data-spy="scroll"
+    data-target="#sections-nav"
+    data-offset="80"
+  >
+    <!-- Modals -->
   </body>
+  <script src="dist/js/all.js"></script>
+  <script>
+    // Bootstrap form validation example
+    (function () {
+      "use strict";
+      window.addEventListener(
+        "load",
+        function () {
+          var forms = document.getElementsByClassName("needs-validation");
+          var validation = Array.prototype.filter.call(forms, function (form) {
+            form.addEventListener(
+              "submit",
+              function (event) {
+                if (form.checkValidity() === false) {
+                  event.preventDefault();
+                  event.stopPropagation();
+                }
+                form.classList.add("was-validated");
+              },
+              false
+            );
+          });
+        },
+        false
+      );
+    })();
+  </script>
 </html>
