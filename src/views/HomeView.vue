@@ -189,24 +189,24 @@
                   <div class="col-12 col-md-4">
                     <div class="contact">
                       <strong class="contact-label">Stay in touch</strong>
-                      <a href="mailto:john@wilson.com">john@wilson.com</a><br />
-                      <a href="tel:+420652887351">+420 652 887 351</a>
+                      <a href="mailto:andyyglecias@gmail.com"
+                        >andyyglecias@gmail.com</a
+                      ><br />
+                      <a href="tel:+420652887351">224-245-4999</a>
                     </div>
                   </div>
                   <div class="col-12 col-md-4">
                     <div class="contact">
                       <strong class="contact-label">Social</strong>
-                      <a href="https://www.facebook.com">Facebook</a><br />
-                      <a href="https://www.linked.com">LinekdIn</a><br />
-                      <a href="https://www.twitter.com">Twitter</a>
+                      <a href="www.linkedin.com/in/andy-yglecias">LinekdIn</a
+                      ><br />
                     </div>
                   </div>
                   <div class="col-12 col-md-4">
                     <div class="contact">
                       <strong class="contact-label">Address</strong>
-                      1234 Houston Street<br />
-                      New York<br />
-                      NY 123456<br />
+                      Dallas<br />
+                      TX, 75052<br />
                     </div>
                   </div>
                 </div>
