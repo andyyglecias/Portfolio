@@ -1,5 +1,43 @@
 <template>
   <div class="home">
+    <nav class="sections-nav-container">
+      <ul id="sections-nav" class="nav sections-nav sections-nav-animated">
+        <li class="sections-nav-item">
+          <a
+            href="#section-01"
+            class="nav-link sections-nav-link goto-section active"
+          >
+            <span class="sections-nav-counter">01</span>
+            Top
+          </a>
+        </li>
+        <li class="sections-nav-item">
+          <a href="#section-02" class="nav-link sections-nav-link goto-section">
+            <span class="sections-nav-counter">02</span>
+            About me
+          </a>
+        </li>
+        <li class="sections-nav-item">
+          <a href="#section-08" class="nav-link sections-nav-link goto-section">
+            <span class="sections-nav-counter">03</span>
+            Projects
+          </a>
+        </li>
+        <li class="sections-nav-item">
+          <a href="#section-10" class="nav-link sections-nav-link goto-section">
+            <span class="sections-nav-counter">04</span>
+            Contact
+          </a>
+        </li>
+        <li class="sections-nav-item">
+          <div class="sections-nav-info">
+            <a href="mailto:andyyglecias@gmail.com">andyyglecias@gmail.com</a
+            ><br />
+            <a href="tel:+420652887351">224-245-4999</a>
+          </div>
+        </li>
+      </ul>
+    </nav>
     <main class="content">
       <div class="container-fluid-limited">
         <div class="row">
@@ -11,7 +49,7 @@
               <div class="section-body">
                 <div class="jumbotron jumbotron-fluid pt-6 pt-lg-8 pb-0 mb-0">
                   <img
-                    src="https://via.placeholder.com/160"
+                    src="assets/img/profile.jpg"
                     class="jumbotron-img animation-translate animation-item-1"
                     alt="Avatar"
                   />
@@ -21,13 +59,13 @@
                     Andy<br />Yglecias
                   </h1>
                   <p class="lead animation-translate animation-item-3">
-                    FREELANCE WEBDEVELOPER
+                    Full-Stack WEB DEVELOPER
                   </p>
                 </div>
               </div>
               <div class="section-footer animation-translate animation-item-4">
                 <a class="section-next goto-section" href="#section-02">
-                  <span class="section-next-counter">01/10</span>
+                  <span class="section-next-counter">01/04</span>
                   <span class="section-next-label">Next chapter</span>
                   <span class="section-next-icon"></span>
                 </a>
@@ -61,7 +99,7 @@
               </div>
               <div class="section-footer animation-translate animation-item-3">
                 <a class="section-next goto-section" href="#section-03">
-                  <span class="section-next-counter">02/10</span>
+                  <span class="section-next-counter">02/04</span>
                   <span class="section-next-label">Next chapter</span>
                   <span class="section-next-icon"></span>
                 </a>
@@ -123,7 +161,7 @@
               </div>
               <div class="section-footer animation-translate animation-item-3">
                 <a class="section-next goto-section" href="#section-09">
-                  <span class="section-next-counter">08/10</span>
+                  <span class="section-next-counter">03/04</span>
                   <span class="section-next-label">Next chapter</span>
                   <span class="section-next-icon"></span>
                 </a>
@@ -229,7 +267,7 @@
               </div>
               <div class="section-footer animation-translate animation-item-5">
                 <span class="section-next goto-section">
-                  <span class="section-next-counter">10/10</span>
+                  <span class="section-next-counter">04/04</span>
                 </span>
               </div>
             </section>
