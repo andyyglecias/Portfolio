@@ -114,53 +114,55 @@
                 </h2>
                 <div class="row animation-translate animation-item-2">
                   <div class="col-12 col-md-4">
-                    <a class="card" href="#modal-project-1" data-toggle="modal">
-                      <img
-                        class="card-img-top"
-                        src="https://besthqwallpapers.com/Uploads/24-2-2022/190457/thumb2-nba-3d-logo-4k-gray-brickwall-national-basketball-association-creative.jpg"
-                        alt="Project 1"
-                      />
-                      <div class="card-body">
-                        <br />
-                        <h3 class="card-title">Project 1</h3>
-                        <h4 class="card-subtitle">NBA Latest News (Vue.js)</h4>
-                        <p class="card-tags">Vue.js</p>
-                      </div>
-                    </a>
+                    <img
+                      class="card-img-top"
+                      src="https://besthqwallpapers.com/Uploads/24-2-2022/190457/thumb2-nba-3d-logo-4k-gray-brickwall-national-basketball-association-creative.jpg"
+                      alt="Project 1"
+                    />
+                    <div class="card-body">
+                      <br />
+                      <h3 class="card-title">Project 1</h3>
+                      <h4 class="card-subtitle">NBA Latest News (Vue.js)</h4>
+                      <a href="https://github.com/andyyglecias/nba-app.git"
+                        ><p class="card-tags">View Code</p></a
+                      >
+                    </div>
                   </div>
                   <div class="col-12 col-md-4">
-                    <a class="card" href="#modal-project-2" data-toggle="modal">
-                      <img
-                        class="card-img-top"
-                        src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
+                    <img
+                      class="card-img-top"
+                      src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
 "
-                        alt="Project 2"
-                      />
-                      <div class="card-body">
-                        <h3 class="card-title">Project 2</h3>
-                        <h4 class="card-subtitle">
-                          Chicago graffiti data (VanJS)
-                        </h4>
-                        <p class="card-tags">View Code</p>
-                      </div>
-                    </a>
+                      alt="Project 2"
+                    />
+                    <div class="card-body">
+                      <h3 class="card-title">Project 2</h3>
+                      <h4 class="card-subtitle">
+                        Chicago graffiti data (VanJS)
+                      </h4>
+                      <a
+                        href="https://github.com/andyyglecias/graffiti-data.git"
+                        ><p class="card-tags">View Code</p></a
+                      >
+                    </div>
                   </div>
                   <div class="col-12 col-md-4">
-                    <a class="card" href="#modal-project-3" data-toggle="modal">
-                      <img
-                        class="card-img-top"
-                        src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
+                    <img
+                      class="card-img-top"
+                      src="https://image.shutterstock.com/image-photo/colorful-designs-graffiti-alley-baltimore-600w-215820700.jpg
 "
-                        alt="Project 3"
-                      />
-                      <div class="card-body">
-                        <h3 class="card-title">Project 3</h3>
-                        <h4 class="card-subtitle">
-                          Chicago graffiti data (Ruby on Rails)
-                        </h4>
-                        <p class="card-tags">View Code</p>
-                      </div>
-                    </a>
+                      alt="Project 3"
+                    />
+                    <div class="card-body">
+                      <h3 class="card-title">Project 3</h3>
+                      <h4 class="card-subtitle">
+                        Chicago graffiti data (Ruby on Rails)
+                      </h4>
+                      <a
+                        href="https://github.com/andyyglecias/graffit-rmv-bnd.git"
+                        ><p class="card-tags">View Code</p></a
+                      >
+                    </div>
                   </div>
                 </div>
               </div>
